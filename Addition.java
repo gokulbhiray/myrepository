@@ -4,5 +4,6 @@ public class Addition {
         int b=30;
         int c=a+b;
         System.out.println("The Addition is"+c);
+        System.out.println("Indira College");
     }
 }
