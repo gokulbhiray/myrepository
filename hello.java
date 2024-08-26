@@ -5,6 +5,7 @@ class hello
       System.out.println("hello world");
 	System.out.println("Hi ");
 	System.out.println("Bye ");
-System.out.println("Pankaj");
+   System.out.println("Indira College");
+
    }
 }
